@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="9" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Loan Department" duration-ms="253" started-at="2020-04-02T13:15:33 IST" finished-at="2020-04-02T13:15:34 IST">
+    <groups>
+    </groups>
+    <test name="Personal Loan" duration-ms="130" started-at="2020-04-02T13:15:33 IST" finished-at="2020-04-02T13:15:33 IST">
+      <class name="demo.DemoClass2">
+        <test-method status="PASS" signature="show()[pri:0, instance:demo.DemoClass2@66480dd7]" name="show" duration-ms="6" started-at="2020-04-02T13:15:33 IST" finished-at="2020-04-02T13:15:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- show -->
+      </class> <!-- demo.DemoClass2 -->
+      <class name="demo.Demo">
+        <test-method status="PASS" signature="demo()[pri:0, instance:demo.Demo@4e1d422d]" name="demo" duration-ms="26" started-at="2020-04-02T13:15:33 IST" finished-at="2020-04-02T13:15:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo -->
+        <test-method status="PASS" signature="secondTest()[pri:0, instance:demo.Demo@4e1d422d]" name="secondTest" duration-ms="4" started-at="2020-04-02T13:15:33 IST" finished-at="2020-04-02T13:15:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- secondTest -->
+      </class> <!-- demo.Demo -->
+    </test> <!-- Personal Loan -->
+    <test name="Car Loan" duration-ms="53" started-at="2020-04-02T13:15:33 IST" finished-at="2020-04-02T13:15:34 IST">
+      <class name="demo.CarLoan">
+        <test-method status="PASS" signature="mobileLoginCarLoan()[pri:0, instance:demo.CarLoan@3a5ed7a6]" name="mobileLoginCarLoan" duration-ms="3" started-at="2020-04-02T13:15:33 IST" finished-at="2020-04-02T13:15:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobileLoginCarLoan -->
+        <test-method status="PASS" signature="restAPICarLoan()[pri:0, instance:demo.CarLoan@3a5ed7a6]" name="restAPICarLoan" duration-ms="14" started-at="2020-04-02T13:15:33 IST" finished-at="2020-04-02T13:15:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- restAPICarLoan -->
+        <test-method status="PASS" signature="webLoginCarLoan()[pri:0, instance:demo.CarLoan@3a5ed7a6]" name="webLoginCarLoan" duration-ms="4" started-at="2020-04-02T13:15:33 IST" finished-at="2020-04-02T13:15:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webLoginCarLoan -->
+      </class> <!-- demo.CarLoan -->
+      <class name="demo.HomeLoan">
+        <test-method status="PASS" signature="mobileLoginHomeLoan()[pri:0, instance:demo.HomeLoan@6325a3ee]" name="mobileLoginHomeLoan" duration-ms="5" started-at="2020-04-02T13:15:33 IST" finished-at="2020-04-02T13:15:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobileLoginHomeLoan -->
+        <test-method status="PASS" signature="restAPIHomeLoan()[pri:0, instance:demo.HomeLoan@6325a3ee]" name="restAPIHomeLoan" duration-ms="2" started-at="2020-04-02T13:15:33 IST" finished-at="2020-04-02T13:15:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- restAPIHomeLoan -->
+        <test-method status="PASS" signature="webLoginHomeLoan()[pri:0, instance:demo.HomeLoan@6325a3ee]" name="webLoginHomeLoan" duration-ms="2" started-at="2020-04-02T13:15:34 IST" finished-at="2020-04-02T13:15:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webLoginHomeLoan -->
+      </class> <!-- demo.HomeLoan -->
+    </test> <!-- Car Loan -->
+  </suite> <!-- Loan Department -->
+</testng-results>
